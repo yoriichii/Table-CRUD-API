@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 const routes = [
   {
-    path: "/table",
+    path: "/",
     component: () => import("../views/employee-list.vue"),
   },
 ];

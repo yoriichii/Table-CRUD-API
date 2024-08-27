@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main class="mt-5">
     <table-list />
   </main>
 </template>
